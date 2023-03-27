@@ -25,5 +25,3 @@ Endpoint
 ```sh
 http://127.0.0.1:5000/news
 ```
-See the output
-![Alt text](app/static/images/Screenshot_news_api.png?raw=true "News api")
